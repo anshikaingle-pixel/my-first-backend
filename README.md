@@ -22,6 +22,6 @@ I built this as my first step into backend development and I’m fascinated by h
 - **Clean Structure:** Optimized for readability and future scaling.
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/anshika-ingle-1111as45]
 - **GitHub:** [@anshikaingle-pixel](https://github.com/anshikaingle-pixel)
